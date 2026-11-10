@@ -1,6 +1,9 @@
 ![dwkky19](./img/header.png)
 
-### Skills
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-00405D?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://portofolio-dwiky-rn3rsinhu-dwkky19s-projects.vercel.app/)
+
+#### Skills
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -28,10 +31,11 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
+#### Connect With Me
 
-### Connect With Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dwkky_19)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.in/dwiky-darmawan-453204266feed/)
 
 
 
