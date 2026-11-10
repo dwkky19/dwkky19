@@ -1,5 +1,8 @@
 ![dwkky19](./img/header.png)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dwkky19" alt="Visitors" />
+</p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00405D?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://portofolio-dwiky-rn3rsinhu-dwkky19s-projects.vercel.app/)
 
@@ -32,7 +35,6 @@
 </p>
 
 #### Connect With Me
-
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dwkky_19)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.in/dwiky-darmawan-453204266feed/)
